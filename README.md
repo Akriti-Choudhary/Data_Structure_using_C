@@ -1,2 +1,2 @@
 Implementaion of ADT using C programming language.
-------------- Data Structure---------------
+"Data Structure and Algorithm"
